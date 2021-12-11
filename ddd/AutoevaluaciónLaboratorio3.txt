@@ -1,0 +1,13 @@
+Javier Fernández Parrondo
+
+------ Autoevaluación ------
+
+Ejercicio1: 3.5 debido a que todos los ejercicios de han realizado correctamente salvo el takeWhile.
+
+Ejercicio2: 1 debido a que está correctamente realizado semejante a como se ha corregido en clase.
+
+Ejercicio3: 1.5 debido a que está correctamente realizado semejante a como se ha corregido en clase.
+
+Ejercicio4: 0 debido a que no logré realizar este apartado para entrega.
+
+Nota final: 6
